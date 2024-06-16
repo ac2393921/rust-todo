@@ -6,3 +6,4 @@ edition = "2021"
 [dependencies]
 actix-rt = "2.10.0"
 actix-web = "4.7.0"
+thiserror = "1.0.61"
